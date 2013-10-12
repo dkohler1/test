@@ -1,0 +1,953 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.680909629396,
+                            45.5505866839789
+                        ],
+                        [
+                            -122.680264998348,
+                            45.5505856774644
+                        ],
+                        [
+                            -122.680263650875,
+                            45.550729483042
+                        ],
+                        [
+                            -122.680262393234,
+                            45.5508590713051
+                        ],
+                        [
+                            -122.679836771452,
+                            45.550858253516
+                        ],
+                        [
+                            -122.679322755447,
+                            45.5508563663104
+                        ],
+                        [
+                            -122.679320060501,
+                            45.5507258344361
+                        ],
+                        [
+                            -122.679288799129,
+                            45.5466692559453
+                        ],
+                        [
+                            -122.678865333304,
+                            45.5463242479979
+                        ],
+                        [
+                            -122.679193937035,
+                            45.5460536631499
+                        ],
+                        [
+                            -122.679825812006,
+                            45.5463845805033
+                        ],
+                        [
+                            -122.680351056953,
+                            45.5466765536835
+                        ],
+                        [
+                            -122.680459303944,
+                            45.5467531798778
+                        ],
+                        [
+                            -122.68054311676,
+                            45.5468237664766
+                        ],
+                        [
+                            -122.680647051839,
+                            45.5469270668475
+                        ],
+                        [
+                            -122.680744878373,
+                            45.5470728949406
+                        ],
+                        [
+                            -122.680793297567,
+                            45.5472383508608
+                        ],
+                        [
+                            -122.680808119769,
+                            45.5473446701874
+                        ],
+                        [
+                            -122.680789524643,
+                            45.5489827802404
+                        ],
+                        [
+                            -122.680783775425,
+                            45.5494916484441
+                        ],
+                        [
+                            -122.679793382824,
+                            45.54948284127
+                        ],
+                        [
+                            -122.679788082764,
+                            45.5496702450563
+                        ],
+                        [
+                            -122.680270837398,
+                            45.5496739566389
+                        ],
+                        [
+                            -122.68089983776,
+                            45.5496739566389
+                        ],
+                        [
+                            -122.680909629396,
+                            45.5505866839789
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "horse": "",
+                "junction": "",
+                "ref": "",
+                "bridge": "",
+                "aerialway": "",
+                "landuse": "",
+                "historic": "",
+                "osm_id": 52134999,
+                "wetland": "",
+                "name": "Kaiser Permanente",
+                "religion": "",
+                "boundary": "",
+                "power": "",
+                "tunnel": "",
+                "man_made": "",
+                "military": "",
+                "cutting": "",
+                "brand": "",
+                "motorcar": "",
+                "area": "",
+                "surface": "",
+                "tracktype": "",
+                "addr:interpolation": "",
+                "tower:type": "",
+                "route": "",
+                "disused": "",
+                "leisure": "",
+                "wood": "",
+                "aeroway": "",
+                "covered": "",
+                "generator:source": "",
+                "harbour": "",
+                "population": "",
+                "denomination": "",
+                "tourism": "",
+                "way_area": 112574,
+                "addr:housenumber": "",
+                "layer": "",
+                "railway": "",
+                "operator": "",
+                "place": "",
+                "power_source": "",
+                "lock": "",
+                "oneway": "",
+                "natural": "",
+                "construction": "",
+                "z_order": 0,
+                "intermittent": "",
+                "addr:housename": "",
+                "access": "",
+                "toll": "",
+                "highway": "",
+                "embankment": "",
+                "shop": "",
+                "service": "",
+                "water": "",
+                "culvert": "",
+                "amenity": "hospital",
+                "waterway": "",
+                "barrier": "",
+                "sport": "",
+                "admin_level": "",
+                "bicycle": "",
+                "foot": "",
+                "building": "",
+                "width": "",
+                "public_transport": "",
+                "office": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.679732656711,
+                            45.5466720869645
+                        ],
+                        [
+                            -122.679727626145,
+                            45.5472259574114
+                        ],
+                        [
+                            -122.679683698528,
+                            45.5472262719659
+                        ],
+                        [
+                            -122.679682530718,
+                            45.5473112645508
+                        ],
+                        [
+                            -122.679670223799,
+                            45.5473111387292
+                        ],
+                        [
+                            -122.679671571272,
+                            45.5473505838009
+                        ],
+                        [
+                            -122.679698071573,
+                            45.5473515903733
+                        ],
+                        [
+                            -122.679696903763,
+                            45.5478846937692
+                        ],
+                        [
+                            -122.679325360561,
+                            45.5478846937692
+                        ],
+                        [
+                            -122.67932473174,
+                            45.5474732596842
+                        ],
+                        [
+                            -122.679318443533,
+                            45.5470987513921
+                        ],
+                        [
+                            -122.679317275724,
+                            45.5466761762143
+                        ],
+                        [
+                            -122.679732656711,
+                            45.5466720869645
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "horse": "",
+                "junction": "",
+                "ref": "",
+                "bridge": "",
+                "aerialway": "",
+                "landuse": "",
+                "historic": "",
+                "osm_id": 179864710,
+                "wetland": "",
+                "name": "Interstate Medical Office East",
+                "religion": "",
+                "boundary": "",
+                "power": "",
+                "tunnel": "",
+                "man_made": "",
+                "military": "",
+                "cutting": "",
+                "brand": "",
+                "motorcar": "",
+                "area": "",
+                "surface": "",
+                "tracktype": "",
+                "addr:interpolation": "",
+                "tower:type": "",
+                "route": "",
+                "disused": "",
+                "leisure": "",
+                "wood": "",
+                "aeroway": "",
+                "covered": "",
+                "generator:source": "",
+                "harbour": "",
+                "population": "",
+                "denomination": "",
+                "tourism": "",
+                "way_area": 8333.32,
+                "addr:housenumber": "3550",
+                "layer": "",
+                "railway": "",
+                "operator": "",
+                "place": "",
+                "power_source": "",
+                "lock": "",
+                "oneway": "",
+                "natural": "",
+                "construction": "",
+                "z_order": 0,
+                "intermittent": "",
+                "addr:housename": "",
+                "access": "",
+                "toll": "",
+                "highway": "",
+                "embankment": "",
+                "shop": "",
+                "service": "",
+                "water": "",
+                "culvert": "",
+                "amenity": "clinic",
+                "waterway": "",
+                "barrier": "",
+                "sport": "",
+                "admin_level": "",
+                "bicycle": "",
+                "foot": "",
+                "building": "yes",
+                "width": "",
+                "public_transport": "",
+                "office": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.680789524643,
+                            45.5489827802404
+                        ],
+                        [
+                            -122.680783775425,
+                            45.5494916484441
+                        ],
+                        [
+                            -122.679793382824,
+                            45.54948284127
+                        ],
+                        [
+                            -122.679788082764,
+                            45.5496702450563
+                        ],
+                        [
+                            -122.680270837398,
+                            45.5496739566389
+                        ],
+                        [
+                            -122.680263650875,
+                            45.550729483042
+                        ],
+                        [
+                            -122.679320060501,
+                            45.5507258344361
+                        ],
+                        [
+                            -122.679298500934,
+                            45.5489564842926
+                        ],
+                        [
+                            -122.679306855266,
+                            45.5489227650688
+                        ],
+                        [
+                            -122.679805779575,
+                            45.5489265396098
+                        ],
+                        [
+                            -122.679854198769,
+                            45.548980641336
+                        ],
+                        [
+                            -122.680789524643,
+                            45.5489827802404
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "horse": "",
+                "junction": "",
+                "ref": "",
+                "bridge": "",
+                "aerialway": "",
+                "landuse": "",
+                "historic": "",
+                "osm_id": 226410209,
+                "wetland": "",
+                "name": "",
+                "religion": "",
+                "boundary": "",
+                "power": "",
+                "tunnel": "",
+                "man_made": "",
+                "military": "",
+                "cutting": "",
+                "brand": "",
+                "motorcar": "",
+                "area": "",
+                "surface": "",
+                "tracktype": "",
+                "addr:interpolation": "",
+                "tower:type": "",
+                "route": "",
+                "disused": "",
+                "leisure": "",
+                "wood": "",
+                "aeroway": "",
+                "covered": "",
+                "generator:source": "",
+                "harbour": "",
+                "population": "",
+                "denomination": "",
+                "tourism": "",
+                "way_area": 33213.7,
+                "addr:housenumber": "",
+                "layer": "",
+                "railway": "",
+                "operator": "",
+                "place": "",
+                "power_source": "",
+                "lock": "",
+                "oneway": "",
+                "natural": "",
+                "construction": "",
+                "z_order": 0,
+                "intermittent": "",
+                "addr:housename": "",
+                "access": "",
+                "toll": "",
+                "highway": "",
+                "embankment": "",
+                "shop": "",
+                "service": "",
+                "water": "",
+                "culvert": "",
+                "amenity": "parking",
+                "waterway": "",
+                "barrier": "",
+                "sport": "",
+                "admin_level": "",
+                "bicycle": "",
+                "foot": "",
+                "building": "",
+                "width": "",
+                "public_transport": "",
+                "office": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.679821769587,
+                            45.5481902476844
+                        ],
+                        [
+                            -122.679805779575,
+                            45.5489265396098
+                        ],
+                        [
+                            -122.679306855266,
+                            45.5489227650688
+                        ],
+                        [
+                            -122.679317545218,
+                            45.548186473094
+                        ],
+                        [
+                            -122.679821769587,
+                            45.5481902476844
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "horse": "",
+                "junction": "",
+                "ref": "",
+                "bridge": "",
+                "aerialway": "",
+                "landuse": "",
+                "historic": "",
+                "osm_id": 179862124,
+                "wetland": "",
+                "name": "Interstate Medical Office Parking Garage",
+                "religion": "",
+                "boundary": "",
+                "power": "",
+                "tunnel": "",
+                "man_made": "",
+                "military": "",
+                "cutting": "",
+                "brand": "",
+                "motorcar": "",
+                "area": "",
+                "surface": "",
+                "tracktype": "",
+                "addr:interpolation": "",
+                "tower:type": "",
+                "route": "",
+                "disused": "",
+                "leisure": "",
+                "wood": "",
+                "aeroway": "",
+                "covered": "",
+                "generator:source": "",
+                "harbour": "",
+                "population": "",
+                "denomination": "",
+                "tourism": "",
+                "way_area": 6535.82,
+                "addr:housenumber": "",
+                "layer": "",
+                "railway": "",
+                "operator": "Kaiser Permanente",
+                "place": "",
+                "power_source": "",
+                "lock": "",
+                "oneway": "",
+                "natural": "",
+                "construction": "",
+                "z_order": 0,
+                "intermittent": "",
+                "addr:housename": "",
+                "access": "",
+                "toll": "",
+                "highway": "",
+                "embankment": "",
+                "shop": "",
+                "service": "",
+                "water": "",
+                "culvert": "",
+                "amenity": "parking",
+                "waterway": "",
+                "barrier": "",
+                "sport": "",
+                "admin_level": "",
+                "bicycle": "",
+                "foot": "",
+                "building": "",
+                "width": "",
+                "public_transport": "",
+                "office": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.676022794251,
+                            45.5534645497858
+                        ],
+                        [
+                            -122.676022794251,
+                            45.5537109439594
+                        ],
+                        [
+                            -122.675645232337,
+                            45.5537109439594
+                        ],
+                        [
+                            -122.675645232337,
+                            45.5535787832158
+                        ],
+                        [
+                            -122.675876907848,
+                            45.5535787832158
+                        ],
+                        [
+                            -122.675876907848,
+                            45.5534645497858
+                        ],
+                        [
+                            -122.676022794251,
+                            45.5534645497858
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "horse": "",
+                "junction": "",
+                "ref": "",
+                "bridge": "",
+                "aerialway": "",
+                "landuse": "",
+                "historic": "",
+                "osm_id": 40539633,
+                "wetland": "",
+                "name": "Q Center",
+                "religion": "",
+                "boundary": "",
+                "power": "",
+                "tunnel": "",
+                "man_made": "",
+                "military": "",
+                "cutting": "",
+                "brand": "",
+                "motorcar": "",
+                "area": "",
+                "surface": "",
+                "tracktype": "",
+                "addr:interpolation": "",
+                "tower:type": "",
+                "route": "",
+                "disused": "",
+                "leisure": "",
+                "wood": "",
+                "aeroway": "",
+                "covered": "",
+                "generator:source": "",
+                "harbour": "",
+                "population": "",
+                "denomination": "",
+                "tourism": "",
+                "way_area": 1177.97,
+                "addr:housenumber": "4115",
+                "layer": "",
+                "railway": "",
+                "operator": "CenterLink",
+                "place": "",
+                "power_source": "",
+                "lock": "",
+                "oneway": "",
+                "natural": "",
+                "construction": "",
+                "z_order": 0,
+                "intermittent": "",
+                "addr:housename": "",
+                "access": "",
+                "toll": "",
+                "highway": "",
+                "embankment": "",
+                "shop": "",
+                "service": "",
+                "water": "",
+                "culvert": "",
+                "amenity": "community_centre",
+                "waterway": "",
+                "barrier": "",
+                "sport": "",
+                "admin_level": "",
+                "bicycle": "",
+                "foot": "",
+                "building": "yes",
+                "width": "",
+                "public_transport": "",
+                "office": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.675869002674,
+                            45.5521312850673
+                        ],
+                        [
+                            -122.675869002674,
+                            45.5521553778408
+                        ],
+                        [
+                            -122.675723116272,
+                            45.5521553778408
+                        ],
+                        [
+                            -122.675723116272,
+                            45.5521312850673
+                        ],
+                        [
+                            -122.675869002674,
+                            45.5521312850673
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "horse": "",
+                "junction": "",
+                "ref": "",
+                "bridge": "",
+                "aerialway": "",
+                "landuse": "",
+                "historic": "",
+                "osm_id": 39275820,
+                "wetland": "",
+                "name": "",
+                "religion": "",
+                "boundary": "",
+                "power": "",
+                "tunnel": "",
+                "man_made": "",
+                "military": "",
+                "cutting": "",
+                "brand": "",
+                "motorcar": "",
+                "area": "",
+                "surface": "",
+                "tracktype": "",
+                "addr:interpolation": "",
+                "tower:type": "",
+                "route": "",
+                "disused": "",
+                "leisure": "",
+                "wood": "",
+                "aeroway": "",
+                "covered": "",
+                "generator:source": "",
+                "harbour": "",
+                "population": "",
+                "denomination": "",
+                "tourism": "",
+                "way_area": 62.1992,
+                "addr:housenumber": "",
+                "layer": "",
+                "railway": "",
+                "operator": "",
+                "place": "",
+                "power_source": "",
+                "lock": "",
+                "oneway": "",
+                "natural": "",
+                "construction": "",
+                "z_order": 0,
+                "intermittent": "",
+                "addr:housename": "",
+                "access": "",
+                "toll": "",
+                "highway": "",
+                "embankment": "",
+                "shop": "",
+                "service": "",
+                "water": "",
+                "culvert": "",
+                "amenity": "bicycle_parking",
+                "waterway": "",
+                "barrier": "",
+                "sport": "",
+                "admin_level": "",
+                "bicycle": "",
+                "foot": "",
+                "building": "",
+                "width": "",
+                "public_transport": "",
+                "office": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.675406370303,
+                            45.552673338521
+                        ],
+                        [
+                            -122.675406370303,
+                            45.5527274366407
+                        ],
+                        [
+                            -122.675251949905,
+                            45.5527274366407
+                        ],
+                        [
+                            -122.675251949905,
+                            45.552673338521
+                        ],
+                        [
+                            -122.675406370303,
+                            45.552673338521
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "horse": "",
+                "junction": "",
+                "ref": "",
+                "bridge": "",
+                "aerialway": "",
+                "landuse": "",
+                "historic": "",
+                "osm_id": 40539629,
+                "wetland": "",
+                "name": "Black Rose Collective Bookstore",
+                "religion": "",
+                "boundary": "",
+                "power": "",
+                "tunnel": "",
+                "man_made": "",
+                "military": "",
+                "cutting": "",
+                "brand": "",
+                "motorcar": "",
+                "area": "",
+                "surface": "",
+                "tracktype": "",
+                "addr:interpolation": "",
+                "tower:type": "",
+                "route": "",
+                "disused": "",
+                "leisure": "",
+                "wood": "",
+                "aeroway": "",
+                "covered": "",
+                "generator:source": "",
+                "harbour": "",
+                "population": "",
+                "denomination": "",
+                "tourism": "",
+                "way_area": 147.834,
+                "addr:housenumber": "4038",
+                "layer": "",
+                "railway": "",
+                "operator": "",
+                "place": "",
+                "power_source": "",
+                "lock": "",
+                "oneway": "",
+                "natural": "",
+                "construction": "",
+                "z_order": 0,
+                "intermittent": "",
+                "addr:housename": "",
+                "access": "",
+                "toll": "",
+                "highway": "",
+                "embankment": "",
+                "shop": "books",
+                "service": "",
+                "water": "",
+                "culvert": "",
+                "amenity": "library",
+                "waterway": "",
+                "barrier": "",
+                "sport": "",
+                "admin_level": "",
+                "bicycle": "",
+                "foot": "",
+                "building": "yes",
+                "width": "",
+                "public_transport": "",
+                "office": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.680772007495,
+                            45.5520457336209
+                        ],
+                        [
+                            -122.680427234089,
+                            45.5520466772038
+                        ],
+                        [
+                            -122.680426335773,
+                            45.551890356764
+                        ],
+                        [
+                            -122.680771199011,
+                            45.5518915519722
+                        ],
+                        [
+                            -122.680772007495,
+                            45.5520457336209
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "horse": "",
+                "junction": "",
+                "ref": "",
+                "bridge": "",
+                "aerialway": "",
+                "landuse": "",
+                "historic": "",
+                "osm_id": 168523710,
+                "wetland": "",
+                "name": "Black Cat Café",
+                "religion": "",
+                "boundary": "",
+                "power": "",
+                "tunnel": "",
+                "man_made": "",
+                "military": "",
+                "cutting": "",
+                "brand": "",
+                "motorcar": "",
+                "area": "",
+                "surface": "",
+                "tracktype": "",
+                "addr:interpolation": "",
+                "tower:type": "",
+                "route": "",
+                "disused": "",
+                "leisure": "",
+                "wood": "",
+                "aeroway": "",
+                "covered": "",
+                "generator:source": "",
+                "harbour": "",
+                "population": "",
+                "denomination": "",
+                "tourism": "",
+                "way_area": 947.34,
+                "addr:housenumber": "3990",
+                "layer": "",
+                "railway": "",
+                "operator": "",
+                "place": "",
+                "power_source": "",
+                "lock": "",
+                "oneway": "",
+                "natural": "",
+                "construction": "",
+                "z_order": 0,
+                "intermittent": "",
+                "addr:housename": "",
+                "access": "",
+                "toll": "",
+                "highway": "",
+                "embankment": "",
+                "shop": "",
+                "service": "",
+                "water": "",
+                "culvert": "",
+                "amenity": "pub",
+                "waterway": "",
+                "barrier": "",
+                "sport": "",
+                "admin_level": "",
+                "bicycle": "",
+                "foot": "",
+                "building": "yes",
+                "width": "",
+                "public_transport": "",
+                "office": ""
+            }
+        }
+    ]
+}
