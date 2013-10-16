@@ -1,29 +1,1457 @@
-{"name":"all_lines","type":"FeatureCollection"
-,"crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS83"}}
-,"features":[
-{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.677787,45.503713],[-122.677795,45.50298],[-122.67782,45.502151]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1200","zipr":"97201","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215358214,"tlid":157604631,"tnidf":53995687,"hydroflg":"N","roadflg":"Y","tfidr":215352425,"prequal":"","suftyp":"Ave","exttyp":"N","lfromadd":"","olfflg":"N","ogc_fid":34546415,"artpath":"N","tnidt":53995689,"rtoadd":"2579","pretyp":"","railflg":"N","name":"Front","offsetl":"N","ltoadd":"","offsetr":"N","rfromadd":"2555","featcat":"S","divroad":"Y","ttyp":"","gcseflg":"N","fullname":"SW Front Ave","sufdir":"","zipl":""}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.67867,45.50795],[-122.679814,45.507954]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":260601578,"tlid":157570590,"tnidf":53965945,"hydroflg":"N","roadflg":"Y","tfidr":215357694,"prequal":"","suftyp":"St","exttyp":"N","lfromadd":"100","olfflg":"N","ogc_fid":34562949,"artpath":"N","tnidt":53995545,"rtoadd":"","pretyp":"","railflg":"N","name":"Lincoln","offsetl":"N","ltoadd":"204","offsetr":"N","rfromadd":"","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW Lincoln St","sufdir":"","zipl":"97201"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.678863,45.510021],[-122.679862,45.510267]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97201","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215358224,"tlid":157570890,"tnidf":53995694,"hydroflg":"N","roadflg":"Y","tfidr":215353098,"prequal":"","suftyp":"St","exttyp":"N","lfromadd":"192","olfflg":"N","ogc_fid":34645504,"artpath":"N","tnidt":53995695,"rtoadd":"295","pretyp":"","railflg":"N","name":"Harrison","offsetl":"N","ltoadd":"294","offsetr":"N","rfromadd":"193","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW Harrison St","sufdir":"","zipl":"97201"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.684229,45.507431],[-122.684252,45.507151]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97201","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215352449,"tlid":157570583,"tnidf":53995541,"hydroflg":"N","roadflg":"Y","tfidr":215359581,"prequal":"","suftyp":"Ave","exttyp":"N","lfromadd":"2192","olfflg":"N","ogc_fid":34712761,"artpath":"N","tnidt":53965871,"rtoadd":"2199","pretyp":"","railflg":"N","name":"6th","offsetl":"N","ltoadd":"2198","offsetr":"N","rfromadd":"2193","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW 6th Ave","sufdir":"","zipl":"97201"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.682381,45.53009],[-122.683196,45.530074],[-122.683399,45.53007]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97209","predir":"NW","sufqual":"","smid":"809","deckedroad":"N","tfidl":261141822,"tlid":639091385,"tnidf":53964543,"hydroflg":"N","roadflg":"Y","tfidr":261143958,"prequal":"","suftyp":"St","exttyp":"N","lfromadd":"1100","olfflg":"N","ogc_fid":34793572,"artpath":"N","tnidt":53964539,"rtoadd":"1199","pretyp":"","railflg":"N","name":"Lovejoy","offsetl":"N","ltoadd":"1198","offsetr":"N","rfromadd":"1101","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"NW Lovejoy St","sufdir":"","zipl":"97209"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.681156,45.524403],[-122.68217,45.524384]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97209","predir":"NW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215344689,"tlid":157499088,"tnidf":53964739,"hydroflg":"N","roadflg":"Y","tfidr":215344683,"prequal":"","suftyp":"St","exttyp":"N","lfromadd":"1000","olfflg":"N","ogc_fid":34801209,"artpath":"N","tnidt":53964659,"rtoadd":"1099","pretyp":"","railflg":"N","name":"Davis","offsetl":"N","ltoadd":"1098","offsetr":"N","rfromadd":"1001","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"NW Davis St","sufdir":"","zipl":"97209"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.677643,45.516528],[-122.678665,45.516802]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97204","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215344893,"tlid":157499258,"tnidf":53964832,"hydroflg":"N","roadflg":"Y","tfidr":215344892,"prequal":"","suftyp":"St","exttyp":"N","lfromadd":"400","olfflg":"N","ogc_fid":34804598,"artpath":"N","tnidt":53964829,"rtoadd":"499","pretyp":"","railflg":"N","name":"Salmon","offsetl":"N","ltoadd":"498","offsetr":"N","rfromadd":"401","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW Salmon St","sufdir":"","zipl":"97204"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.682829,45.514098],[-122.683488,45.514268]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1200","zipr":"97201","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215345359,"tlid":157573727,"tnidf":53997113,"hydroflg":"N","roadflg":"Y","tfidr":215345365,"prequal":"","suftyp":"St","exttyp":"N","lfromadd":"732","olfflg":"N","ogc_fid":34822029,"artpath":"N","tnidt":53965819,"rtoadd":"899","pretyp":"","railflg":"N","name":"Clay","offsetl":"N","ltoadd":"798","offsetr":"N","rfromadd":"733","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW Clay St","sufdir":"","zipl":"97201"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.685168,45.523358],[-122.685172,45.523613]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97209","predir":"NW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215353084,"tlid":157573999,"tnidf":53997249,"hydroflg":"N","roadflg":"Y","tfidr":215353083,"prequal":"","suftyp":"Ave","exttyp":"N","lfromadd":"69","olfflg":"N","ogc_fid":34974157,"artpath":"N","tnidt":53964649,"rtoadd":"98","pretyp":"","railflg":"N","name":"14th","offsetl":"N","ltoadd":"99","offsetr":"N","rfromadd":"22","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"NW 14th Ave","sufdir":"","zipl":"97209"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.681066,45.522021],[-122.682089,45.522294]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97205","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215344769,"tlid":157499152,"tnidf":53964775,"hydroflg":"N","roadflg":"Y","tfidr":215344768,"prequal":"","suftyp":"St","exttyp":"N","lfromadd":"1000","olfflg":"N","ogc_fid":35020602,"artpath":"N","tnidt":53964709,"rtoadd":"1099","pretyp":"","railflg":"N","name":"Stark","offsetl":"N","ltoadd":"1098","offsetr":"N","rfromadd":"1001","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW Stark St","sufdir":"","zipl":"97205"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.684198,45.507799],[-122.684103,45.507738],[-122.68376,45.507517]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1100","zipr":"","predir":"","sufqual":"","smid":"809","deckedroad":"N","tfidl":259563362,"tlid":636575807,"tnidf":53965870,"hydroflg":"N","roadflg":"Y","tfidr":215352450,"prequal":"","suftyp":"","exttyp":"N","lfromadd":"","olfflg":"N","ogc_fid":35069511,"artpath":"N","tnidt":53965876,"rtoadd":"","pretyp":"I-","railflg":"N","name":"405","offsetl":"N","ltoadd":"","offsetr":"N","rfromadd":"","featcat":"S","divroad":"Y","ttyp":"","gcseflg":"N","fullname":"I- 405","sufdir":"","zipl":""}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.683475,45.532207],[-122.6835,45.532611],[-122.683519,45.532922]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97209","predir":"NW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215337968,"tlid":636575531,"tnidf":53964531,"hydroflg":"N","roadflg":"Y","tfidr":261141927,"prequal":"","suftyp":"Ave","exttyp":"N","lfromadd":"1301","olfflg":"N","ogc_fid":35151088,"artpath":"N","tnidt":53964529,"rtoadd":"1398","pretyp":"","railflg":"N","name":"12th","offsetl":"N","ltoadd":"1399","offsetr":"N","rfromadd":"1300","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"NW 12th Ave","sufdir":"","zipl":"97209"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.682201,45.517742],[-122.683181,45.51801]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97205","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215344782,"tlid":157499062,"tnidf":53964725,"hydroflg":"N","roadflg":"Y","tfidr":215344781,"prequal":"","suftyp":"St","exttyp":"N","lfromadd":"900","olfflg":"N","ogc_fid":35153111,"artpath":"N","tnidt":53964724,"rtoadd":"999","pretyp":"","railflg":"N","name":"Salmon","offsetl":"N","ltoadd":"998","offsetr":"N","rfromadd":"901","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW Salmon St","sufdir":"","zipl":"97205"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.680344,45.518014],[-122.680706,45.517348]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97205","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215344861,"tlid":157499205,"tnidf":53964801,"hydroflg":"N","roadflg":"Y","tfidr":215344858,"prequal":"","suftyp":"","exttyp":"N","lfromadd":"900","olfflg":"N","ogc_fid":35182854,"artpath":"N","tnidt":53964796,"rtoadd":"999","pretyp":"","railflg":"N","name":"Broadway","offsetl":"N","ltoadd":"998","offsetr":"N","rfromadd":"901","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW Broadway","sufdir":"","zipl":"97205"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.678881,45.512157],[-122.678908,45.512116],[-122.679192,45.511602]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1710","zipr":"","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215353097,"tlid":157590524,"tnidf":54004983,"hydroflg":"N","roadflg":"Y","tfidr":215353389,"prequal":"","suftyp":"Trl","exttyp":"N","lfromadd":"","olfflg":"N","ogc_fid":35205639,"artpath":"N","tnidt":54005254,"rtoadd":"","pretyp":"","railflg":"N","name":"Pedestrian","offsetl":"N","ltoadd":"","offsetr":"N","rfromadd":"","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW Pedestrian Trl","sufdir":"","zipl":""}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.676914,45.517868],[-122.676924,45.517849]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97204","predir":"SW","sufqual":"","smid":"","deckedroad":"N","tfidl":215353049,"tlid":157573831,"tnidf":53997165,"hydroflg":"N","roadflg":"Y","tfidr":215352923,"prequal":"","suftyp":"Ave","exttyp":"N","lfromadd":"796","olfflg":"N","ogc_fid":35211179,"artpath":"N","tnidt":53964835,"rtoadd":"799","pretyp":"","railflg":"N","name":"4th","offsetl":"N","ltoadd":"798","offsetr":"N","rfromadd":"797","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW 4th Ave","sufdir":"","zipl":"97204"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.684579,45.5329],[-122.684516,45.532933]]]},"properties":{"passflg":"","persist":"P","mtfcc":"H3010","zipr":"","predir":"","sufqual":"","smid":"809","deckedroad":"","tfidl":261138951,"tlid":157592382,"tnidf":53998872,"hydroflg":"Y","roadflg":"N","tfidr":215352151,"prequal":"","suftyp":"","exttyp":"N","lfromadd":"","olfflg":"N","ogc_fid":35237807,"artpath":"N","tnidt":53998875,"rtoadd":"","pretyp":"","railflg":"N","name":"","offsetl":"N","ltoadd":"","offsetr":"N","rfromadd":"","featcat":"","divroad":"","ttyp":"","gcseflg":"N","fullname":"","sufdir":"","zipl":""}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.682465,45.519336],[-122.683482,45.519616]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97205","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215344773,"tlid":157499054,"tnidf":53964720,"hydroflg":"N","roadflg":"Y","tfidr":260727382,"prequal":"","suftyp":"St","exttyp":"N","lfromadd":"1000","olfflg":"N","ogc_fid":35243529,"artpath":"N","tnidt":53964713,"rtoadd":"1099","pretyp":"","railflg":"N","name":"Yamhill","offsetl":"N","ltoadd":"1098","offsetr":"N","rfromadd":"1001","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW Yamhill St","sufdir":"","zipl":"97205"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.678063,45.513589],[-122.678424,45.512923]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97201","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215345431,"tlid":157500894,"tnidf":53965921,"hydroflg":"N","roadflg":"Y","tfidr":215345419,"prequal":"","suftyp":"Ave","exttyp":"N","lfromadd":"1400","olfflg":"N","ogc_fid":35292901,"artpath":"N","tnidt":53965926,"rtoadd":"1499","pretyp":"","railflg":"N","name":"3rd","offsetl":"N","ltoadd":"1498","offsetr":"N","rfromadd":"1401","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW 3rd Ave","sufdir":"","zipl":"97201"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.67782,45.502151],[-122.67796,45.50215]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1710","zipr":"","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215357693,"tlid":157587885,"tnidf":53995689,"hydroflg":"N","roadflg":"Y","tfidr":215352425,"prequal":"","suftyp":"Trl","exttyp":"N","lfromadd":"","olfflg":"N","ogc_fid":35417958,"artpath":"N","tnidt":53995566,"rtoadd":"","pretyp":"","railflg":"N","name":"Pedestrian","offsetl":"N","ltoadd":"","offsetr":"N","rfromadd":"","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW Pedestrian Trl","sufdir":"","zipl":""}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.68021,45.526352],[-122.679198,45.526405]]]},"properties":{"passflg":"","persist":"P","mtfcc":"H3010","zipr":"","predir":"","sufqual":"","smid":"809","deckedroad":"","tfidl":215344792,"tlid":157589914,"tnidf":53997084,"hydroflg":"Y","roadflg":"N","tfidr":215353072,"prequal":"","suftyp":"","exttyp":"N","lfromadd":"","olfflg":"N","ogc_fid":35509926,"artpath":"N","tnidt":53997088,"rtoadd":"","pretyp":"","railflg":"N","name":"","offsetl":"N","ltoadd":"","offsetr":"N","rfromadd":"","featcat":"","divroad":"","ttyp":"","gcseflg":"N","fullname":"","sufdir":"","zipl":""}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.684155,45.509872],[-122.68468,45.51001]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1400","zipr":"97201","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":260601560,"tlid":638321901,"tnidf":424163419,"hydroflg":"N","roadflg":"Y","tfidr":260590067,"prequal":"","suftyp":"St","exttyp":"N","lfromadd":"648","olfflg":"N","ogc_fid":35614465,"artpath":"N","tnidt":53965835,"rtoadd":"699","pretyp":"","railflg":"N","name":"College","offsetl":"N","ltoadd":"698","offsetr":"N","rfromadd":"635","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW College St","sufdir":"","zipl":"97201"}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.677666,45.502151],[-122.67782,45.502151]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1710","zipr":"","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215358212,"tlid":157587884,"tnidf":54004097,"hydroflg":"N","roadflg":"Y","tfidr":215358214,"prequal":"","suftyp":"Trl","exttyp":"N","lfromadd":"","olfflg":"N","ogc_fid":66858640,"artpath":"N","tnidt":53995689,"rtoadd":"","pretyp":"","railflg":"N","name":"Pedestrian","offsetl":"N","ltoadd":"","offsetr":"N","rfromadd":"","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW Pedestrian Trl","sufdir":"","zipl":""}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.679217,45.509377],[-122.679269,45.509281]]]},"properties":{"passflg":"","persist":"","mtfcc":"S1710","zipr":"","predir":"SW","sufqual":"","smid":"809","deckedroad":"N","tfidl":215345423,"tlid":157588261,"tnidf":54004102,"hydroflg":"N","roadflg":"Y","tfidr":215358225,"prequal":"","suftyp":"Trl","exttyp":"N","lfromadd":"","olfflg":"N","ogc_fid":66867495,"artpath":"N","tnidt":54004101,"rtoadd":"","pretyp":"","railflg":"N","name":"Pedestrian","offsetl":"N","ltoadd":"","offsetr":"N","rfromadd":"","featcat":"S","divroad":"N","ttyp":"","gcseflg":"N","fullname":"SW Pedestrian Trl","sufdir":"","zipl":""}}
-,{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-122.67298,45.518944],[-122.673169,45.51855]]]},"properties":{"passflg":"","persist":"","mtfcc":"R1011","zipr":"","predir":"","sufqual":"","smid":"809","deckedroad":"","tfidl":215348669,"tlid":157589795,"tnidf":53997169,"hydroflg":"N","roadflg":"N","tfidr":215352959,"prequal":"","suftyp":"","exttyp":"N","lfromadd":"","olfflg":"N","ogc_fid":66925955,"artpath":"N","tnidt":53968180,"rtoadd":"","pretyp":"","railflg":"Y","name":"","offsetl":"N","ltoadd":"","offsetr":"N","rfromadd":"","featcat":"","divroad":"","ttyp":"M","gcseflg":"N","fullname":"","sufdir":"","zipl":""}}
-]}
+{
+    "name": "all_lines",
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS83"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.677787,
+                            45.503713
+                        ],
+                        [
+                            -122.677795,
+                            45.50298
+                        ],
+                        [
+                            -122.67782,
+                            45.502151
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1200",
+                "zipr": "97201",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215358214,
+                "tlid": 157604631,
+                "tnidf": 53995687,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215352425,
+                "prequal": "",
+                "suftyp": "Ave",
+                "exttyp": "N",
+                "lfromadd": "",
+                "olfflg": "N",
+                "ogc_fid": 34546415,
+                "artpath": "N",
+                "tnidt": 53995689,
+                "rtoadd": "2579",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Front",
+                "offsetl": "N",
+                "ltoadd": "",
+                "offsetr": "N",
+                "rfromadd": "2555",
+                "featcat": "S",
+                "divroad": "Y",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW Front Ave",
+                "sufdir": "",
+                "zipl": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.67867,
+                            45.50795
+                        ],
+                        [
+                            -122.679814,
+                            45.507954
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 260601578,
+                "tlid": 157570590,
+                "tnidf": 53965945,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215357694,
+                "prequal": "",
+                "suftyp": "St",
+                "exttyp": "N",
+                "lfromadd": "100",
+                "olfflg": "N",
+                "ogc_fid": 34562949,
+                "artpath": "N",
+                "tnidt": 53995545,
+                "rtoadd": "",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Lincoln",
+                "offsetl": "N",
+                "ltoadd": "204",
+                "offsetr": "N",
+                "rfromadd": "",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW Lincoln St",
+                "sufdir": "",
+                "zipl": "97201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.678863,
+                            45.510021
+                        ],
+                        [
+                            -122.679862,
+                            45.510267
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97201",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215358224,
+                "tlid": 157570890,
+                "tnidf": 53995694,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215353098,
+                "prequal": "",
+                "suftyp": "St",
+                "exttyp": "N",
+                "lfromadd": "192",
+                "olfflg": "N",
+                "ogc_fid": 34645504,
+                "artpath": "N",
+                "tnidt": 53995695,
+                "rtoadd": "295",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Harrison",
+                "offsetl": "N",
+                "ltoadd": "294",
+                "offsetr": "N",
+                "rfromadd": "193",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW Harrison St",
+                "sufdir": "",
+                "zipl": "97201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.684229,
+                            45.507431
+                        ],
+                        [
+                            -122.684252,
+                            45.507151
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97201",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215352449,
+                "tlid": 157570583,
+                "tnidf": 53995541,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215359581,
+                "prequal": "",
+                "suftyp": "Ave",
+                "exttyp": "N",
+                "lfromadd": "2192",
+                "olfflg": "N",
+                "ogc_fid": 34712761,
+                "artpath": "N",
+                "tnidt": 53965871,
+                "rtoadd": "2199",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "6th",
+                "offsetl": "N",
+                "ltoadd": "2198",
+                "offsetr": "N",
+                "rfromadd": "2193",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW 6th Ave",
+                "sufdir": "",
+                "zipl": "97201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.682381,
+                            45.53009
+                        ],
+                        [
+                            -122.683196,
+                            45.530074
+                        ],
+                        [
+                            -122.683399,
+                            45.53007
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97209",
+                "predir": "NW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 261141822,
+                "tlid": 639091385,
+                "tnidf": 53964543,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 261143958,
+                "prequal": "",
+                "suftyp": "St",
+                "exttyp": "N",
+                "lfromadd": "1100",
+                "olfflg": "N",
+                "ogc_fid": 34793572,
+                "artpath": "N",
+                "tnidt": 53964539,
+                "rtoadd": "1199",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Lovejoy",
+                "offsetl": "N",
+                "ltoadd": "1198",
+                "offsetr": "N",
+                "rfromadd": "1101",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "NW Lovejoy St",
+                "sufdir": "",
+                "zipl": "97209"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.681156,
+                            45.524403
+                        ],
+                        [
+                            -122.68217,
+                            45.524384
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97209",
+                "predir": "NW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215344689,
+                "tlid": 157499088,
+                "tnidf": 53964739,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215344683,
+                "prequal": "",
+                "suftyp": "St",
+                "exttyp": "N",
+                "lfromadd": "1000",
+                "olfflg": "N",
+                "ogc_fid": 34801209,
+                "artpath": "N",
+                "tnidt": 53964659,
+                "rtoadd": "1099",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Davis",
+                "offsetl": "N",
+                "ltoadd": "1098",
+                "offsetr": "N",
+                "rfromadd": "1001",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "NW Davis St",
+                "sufdir": "",
+                "zipl": "97209"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.677643,
+                            45.516528
+                        ],
+                        [
+                            -122.678665,
+                            45.516802
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97204",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215344893,
+                "tlid": 157499258,
+                "tnidf": 53964832,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215344892,
+                "prequal": "",
+                "suftyp": "St",
+                "exttyp": "N",
+                "lfromadd": "400",
+                "olfflg": "N",
+                "ogc_fid": 34804598,
+                "artpath": "N",
+                "tnidt": 53964829,
+                "rtoadd": "499",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Salmon",
+                "offsetl": "N",
+                "ltoadd": "498",
+                "offsetr": "N",
+                "rfromadd": "401",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW Salmon St",
+                "sufdir": "",
+                "zipl": "97204"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.682829,
+                            45.514098
+                        ],
+                        [
+                            -122.683488,
+                            45.514268
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1200",
+                "zipr": "97201",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215345359,
+                "tlid": 157573727,
+                "tnidf": 53997113,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215345365,
+                "prequal": "",
+                "suftyp": "St",
+                "exttyp": "N",
+                "lfromadd": "732",
+                "olfflg": "N",
+                "ogc_fid": 34822029,
+                "artpath": "N",
+                "tnidt": 53965819,
+                "rtoadd": "899",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Clay",
+                "offsetl": "N",
+                "ltoadd": "798",
+                "offsetr": "N",
+                "rfromadd": "733",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW Clay St",
+                "sufdir": "",
+                "zipl": "97201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.685168,
+                            45.523358
+                        ],
+                        [
+                            -122.685172,
+                            45.523613
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97209",
+                "predir": "NW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215353084,
+                "tlid": 157573999,
+                "tnidf": 53997249,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215353083,
+                "prequal": "",
+                "suftyp": "Ave",
+                "exttyp": "N",
+                "lfromadd": "69",
+                "olfflg": "N",
+                "ogc_fid": 34974157,
+                "artpath": "N",
+                "tnidt": 53964649,
+                "rtoadd": "98",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "14th",
+                "offsetl": "N",
+                "ltoadd": "99",
+                "offsetr": "N",
+                "rfromadd": "22",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "NW 14th Ave",
+                "sufdir": "",
+                "zipl": "97209"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.681066,
+                            45.522021
+                        ],
+                        [
+                            -122.682089,
+                            45.522294
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97205",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215344769,
+                "tlid": 157499152,
+                "tnidf": 53964775,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215344768,
+                "prequal": "",
+                "suftyp": "St",
+                "exttyp": "N",
+                "lfromadd": "1000",
+                "olfflg": "N",
+                "ogc_fid": 35020602,
+                "artpath": "N",
+                "tnidt": 53964709,
+                "rtoadd": "1099",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Stark",
+                "offsetl": "N",
+                "ltoadd": "1098",
+                "offsetr": "N",
+                "rfromadd": "1001",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW Stark St",
+                "sufdir": "",
+                "zipl": "97205"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.684198,
+                            45.507799
+                        ],
+                        [
+                            -122.684103,
+                            45.507738
+                        ],
+                        [
+                            -122.68376,
+                            45.507517
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1100",
+                "zipr": "",
+                "predir": "",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 259563362,
+                "tlid": 636575807,
+                "tnidf": 53965870,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215352450,
+                "prequal": "",
+                "suftyp": "",
+                "exttyp": "N",
+                "lfromadd": "",
+                "olfflg": "N",
+                "ogc_fid": 35069511,
+                "artpath": "N",
+                "tnidt": 53965876,
+                "rtoadd": "",
+                "pretyp": "I-",
+                "railflg": "N",
+                "name": "405",
+                "offsetl": "N",
+                "ltoadd": "",
+                "offsetr": "N",
+                "rfromadd": "",
+                "featcat": "S",
+                "divroad": "Y",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "I- 405",
+                "sufdir": "",
+                "zipl": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.683475,
+                            45.532207
+                        ],
+                        [
+                            -122.6835,
+                            45.532611
+                        ],
+                        [
+                            -122.683519,
+                            45.532922
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97209",
+                "predir": "NW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215337968,
+                "tlid": 636575531,
+                "tnidf": 53964531,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 261141927,
+                "prequal": "",
+                "suftyp": "Ave",
+                "exttyp": "N",
+                "lfromadd": "1301",
+                "olfflg": "N",
+                "ogc_fid": 35151088,
+                "artpath": "N",
+                "tnidt": 53964529,
+                "rtoadd": "1398",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "12th",
+                "offsetl": "N",
+                "ltoadd": "1399",
+                "offsetr": "N",
+                "rfromadd": "1300",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "NW 12th Ave",
+                "sufdir": "",
+                "zipl": "97209"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.682201,
+                            45.517742
+                        ],
+                        [
+                            -122.683181,
+                            45.51801
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97205",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215344782,
+                "tlid": 157499062,
+                "tnidf": 53964725,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215344781,
+                "prequal": "",
+                "suftyp": "St",
+                "exttyp": "N",
+                "lfromadd": "900",
+                "olfflg": "N",
+                "ogc_fid": 35153111,
+                "artpath": "N",
+                "tnidt": 53964724,
+                "rtoadd": "999",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Salmon",
+                "offsetl": "N",
+                "ltoadd": "998",
+                "offsetr": "N",
+                "rfromadd": "901",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW Salmon St",
+                "sufdir": "",
+                "zipl": "97205"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.680344,
+                            45.518014
+                        ],
+                        [
+                            -122.680706,
+                            45.517348
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97205",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215344861,
+                "tlid": 157499205,
+                "tnidf": 53964801,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215344858,
+                "prequal": "",
+                "suftyp": "",
+                "exttyp": "N",
+                "lfromadd": "900",
+                "olfflg": "N",
+                "ogc_fid": 35182854,
+                "artpath": "N",
+                "tnidt": 53964796,
+                "rtoadd": "999",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Broadway",
+                "offsetl": "N",
+                "ltoadd": "998",
+                "offsetr": "N",
+                "rfromadd": "901",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW Broadway",
+                "sufdir": "",
+                "zipl": "97205"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.678881,
+                            45.512157
+                        ],
+                        [
+                            -122.678908,
+                            45.512116
+                        ],
+                        [
+                            -122.679192,
+                            45.511602
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1710",
+                "zipr": "",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215353097,
+                "tlid": 157590524,
+                "tnidf": 54004983,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215353389,
+                "prequal": "",
+                "suftyp": "Trl",
+                "exttyp": "N",
+                "lfromadd": "",
+                "olfflg": "N",
+                "ogc_fid": 35205639,
+                "artpath": "N",
+                "tnidt": 54005254,
+                "rtoadd": "",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Pedestrian",
+                "offsetl": "N",
+                "ltoadd": "",
+                "offsetr": "N",
+                "rfromadd": "",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW Pedestrian Trl",
+                "sufdir": "",
+                "zipl": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.676914,
+                            45.517868
+                        ],
+                        [
+                            -122.676924,
+                            45.517849
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97204",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "",
+                "deckedroad": "N",
+                "tfidl": 215353049,
+                "tlid": 157573831,
+                "tnidf": 53997165,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215352923,
+                "prequal": "",
+                "suftyp": "Ave",
+                "exttyp": "N",
+                "lfromadd": "796",
+                "olfflg": "N",
+                "ogc_fid": 35211179,
+                "artpath": "N",
+                "tnidt": 53964835,
+                "rtoadd": "799",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "4th",
+                "offsetl": "N",
+                "ltoadd": "798",
+                "offsetr": "N",
+                "rfromadd": "797",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW 4th Ave",
+                "sufdir": "",
+                "zipl": "97204"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.684579,
+                            45.5329
+                        ],
+                        [
+                            -122.684516,
+                            45.532933
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "P",
+                "mtfcc": "H3010",
+                "zipr": "",
+                "predir": "",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "",
+                "tfidl": 261138951,
+                "tlid": 157592382,
+                "tnidf": 53998872,
+                "hydroflg": "Y",
+                "roadflg": "N",
+                "tfidr": 215352151,
+                "prequal": "",
+                "suftyp": "",
+                "exttyp": "N",
+                "lfromadd": "",
+                "olfflg": "N",
+                "ogc_fid": 35237807,
+                "artpath": "N",
+                "tnidt": 53998875,
+                "rtoadd": "",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "",
+                "offsetl": "N",
+                "ltoadd": "",
+                "offsetr": "N",
+                "rfromadd": "",
+                "featcat": "",
+                "divroad": "",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "",
+                "sufdir": "",
+                "zipl": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.682465,
+                            45.519336
+                        ],
+                        [
+                            -122.683482,
+                            45.519616
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97205",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215344773,
+                "tlid": 157499054,
+                "tnidf": 53964720,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 260727382,
+                "prequal": "",
+                "suftyp": "St",
+                "exttyp": "N",
+                "lfromadd": "1000",
+                "olfflg": "N",
+                "ogc_fid": 35243529,
+                "artpath": "N",
+                "tnidt": 53964713,
+                "rtoadd": "1099",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Yamhill",
+                "offsetl": "N",
+                "ltoadd": "1098",
+                "offsetr": "N",
+                "rfromadd": "1001",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW Yamhill St",
+                "sufdir": "",
+                "zipl": "97205"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.678063,
+                            45.513589
+                        ],
+                        [
+                            -122.678424,
+                            45.512923
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97201",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215345431,
+                "tlid": 157500894,
+                "tnidf": 53965921,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215345419,
+                "prequal": "",
+                "suftyp": "Ave",
+                "exttyp": "N",
+                "lfromadd": "1400",
+                "olfflg": "N",
+                "ogc_fid": 35292901,
+                "artpath": "N",
+                "tnidt": 53965926,
+                "rtoadd": "1499",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "3rd",
+                "offsetl": "N",
+                "ltoadd": "1498",
+                "offsetr": "N",
+                "rfromadd": "1401",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW 3rd Ave",
+                "sufdir": "",
+                "zipl": "97201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.67782,
+                            45.502151
+                        ],
+                        [
+                            -122.67796,
+                            45.50215
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1710",
+                "zipr": "",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215357693,
+                "tlid": 157587885,
+                "tnidf": 53995689,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215352425,
+                "prequal": "",
+                "suftyp": "Trl",
+                "exttyp": "N",
+                "lfromadd": "",
+                "olfflg": "N",
+                "ogc_fid": 35417958,
+                "artpath": "N",
+                "tnidt": 53995566,
+                "rtoadd": "",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Pedestrian",
+                "offsetl": "N",
+                "ltoadd": "",
+                "offsetr": "N",
+                "rfromadd": "",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW Pedestrian Trl",
+                "sufdir": "",
+                "zipl": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.68021,
+                            45.526352
+                        ],
+                        [
+                            -122.679198,
+                            45.526405
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "P",
+                "mtfcc": "H3010",
+                "zipr": "",
+                "predir": "",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "",
+                "tfidl": 215344792,
+                "tlid": 157589914,
+                "tnidf": 53997084,
+                "hydroflg": "Y",
+                "roadflg": "N",
+                "tfidr": 215353072,
+                "prequal": "",
+                "suftyp": "",
+                "exttyp": "N",
+                "lfromadd": "",
+                "olfflg": "N",
+                "ogc_fid": 35509926,
+                "artpath": "N",
+                "tnidt": 53997088,
+                "rtoadd": "",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "",
+                "offsetl": "N",
+                "ltoadd": "",
+                "offsetr": "N",
+                "rfromadd": "",
+                "featcat": "",
+                "divroad": "",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "",
+                "sufdir": "",
+                "zipl": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.684155,
+                            45.509872
+                        ],
+                        [
+                            -122.68468,
+                            45.51001
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1400",
+                "zipr": "97201",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 260601560,
+                "tlid": 638321901,
+                "tnidf": 424163419,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 260590067,
+                "prequal": "",
+                "suftyp": "St",
+                "exttyp": "N",
+                "lfromadd": "648",
+                "olfflg": "N",
+                "ogc_fid": 35614465,
+                "artpath": "N",
+                "tnidt": 53965835,
+                "rtoadd": "699",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "College",
+                "offsetl": "N",
+                "ltoadd": "698",
+                "offsetr": "N",
+                "rfromadd": "635",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW College St",
+                "sufdir": "",
+                "zipl": "97201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.677666,
+                            45.502151
+                        ],
+                        [
+                            -122.67782,
+                            45.502151
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1710",
+                "zipr": "",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215358212,
+                "tlid": 157587884,
+                "tnidf": 54004097,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215358214,
+                "prequal": "",
+                "suftyp": "Trl",
+                "exttyp": "N",
+                "lfromadd": "",
+                "olfflg": "N",
+                "ogc_fid": 66858640,
+                "artpath": "N",
+                "tnidt": 53995689,
+                "rtoadd": "",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Pedestrian",
+                "offsetl": "N",
+                "ltoadd": "",
+                "offsetr": "N",
+                "rfromadd": "",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW Pedestrian Trl",
+                "sufdir": "",
+                "zipl": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.679217,
+                            45.509377
+                        ],
+                        [
+                            -122.679269,
+                            45.509281
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "S1710",
+                "zipr": "",
+                "predir": "SW",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "N",
+                "tfidl": 215345423,
+                "tlid": 157588261,
+                "tnidf": 54004102,
+                "hydroflg": "N",
+                "roadflg": "Y",
+                "tfidr": 215358225,
+                "prequal": "",
+                "suftyp": "Trl",
+                "exttyp": "N",
+                "lfromadd": "",
+                "olfflg": "N",
+                "ogc_fid": 66867495,
+                "artpath": "N",
+                "tnidt": 54004101,
+                "rtoadd": "",
+                "pretyp": "",
+                "railflg": "N",
+                "name": "Pedestrian",
+                "offsetl": "N",
+                "ltoadd": "",
+                "offsetr": "N",
+                "rfromadd": "",
+                "featcat": "S",
+                "divroad": "N",
+                "ttyp": "",
+                "gcseflg": "N",
+                "fullname": "SW Pedestrian Trl",
+                "sufdir": "",
+                "zipl": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -122.67298,
+                            45.518944
+                        ],
+                        [
+                            -122.673169,
+                            45.51855
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "passflg": "",
+                "persist": "",
+                "mtfcc": "R1011",
+                "zipr": "",
+                "predir": "",
+                "sufqual": "",
+                "smid": "809",
+                "deckedroad": "",
+                "tfidl": 215348669,
+                "tlid": 157589795,
+                "tnidf": 53997169,
+                "hydroflg": "N",
+                "roadflg": "N",
+                "tfidr": 215352959,
+                "prequal": "",
+                "suftyp": "",
+                "exttyp": "N",
+                "lfromadd": "",
+                "olfflg": "N",
+                "ogc_fid": 66925955,
+                "artpath": "N",
+                "tnidt": 53968180,
+                "rtoadd": "",
+                "pretyp": "",
+                "railflg": "Y",
+                "name": "",
+                "offsetl": "N",
+                "ltoadd": "",
+                "offsetr": "N",
+                "rfromadd": "",
+                "featcat": "",
+                "divroad": "",
+                "ttyp": "M",
+                "gcseflg": "N",
+                "fullname": "",
+                "sufdir": "",
+                "zipl": ""
+            }
+        }
+    ]
+}
